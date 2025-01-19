@@ -1,0 +1,2 @@
+# -Analysis-of-Binary-Detection-Techniques-on-the-TORGO-Dataset-ML-Project-
+This project analyzes binary detection techniques for dysarthric speech using the TORGO dataset. It involves implementing traditional (CNN, RNN, LSTM) and advanced techniques (Contrastive Learning, Knowledge Graphs, Transformer models, Self-Supervised Learning, GNNs) and comparing performance using accuracy, precision, recall, and F1-score.
